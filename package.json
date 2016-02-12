@@ -8,7 +8,8 @@
     "include-all": "~0.1.6",
     "rc": "1.0.1",
     "sails": "~0.12.0",
-    "sails-disk": "~0.10.9"
+    "sails-disk": "~0.10.9",
+    "sails-mongo": "^0.12.0"
   },
   "scripts": {
     "debug": "node debug app.js",
@@ -17,8 +18,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ec2-user/message-collector-backend.git"
+    "url": "https://github.com/RothAndrew/message-collector-backend.git"
   },
-  "author": "ec2-user",
-  "license": ""
+  "author": "Andrew Roth",
+  "license": "MIT"
 }
